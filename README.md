@@ -19,7 +19,7 @@ I'm a passionate **Cybersecurity** enthusiast and **Computer Engineering** stude
 ## 📚 Education
 
 - **Pegaso Telematic University** – Computer Engineering (Ongoing)
-- **Epicode** – Cybersecurity Course
+- **Epicode** – Cybersecurity Bootcamp
 
 ## 📫 How to reach me
 
