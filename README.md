@@ -5,7 +5,7 @@ I'm a passionate **Cybersecurity** enthusiast and **Computer Engineering** stude
 
 🌱 Currently, I'm deepening my knowledge in **Cybersecurity** and **Security Systems**. I'm always looking for new projects and challenges to learn and grow in the field.
 
-🎯 At the moment, I’m seeking job opportunities in **Cybersecurity** and **Data Protection**. If you're looking for someone with a strong theoretical background and practical commitment, feel free to reach out!
+🎯 At the moment, I’m seeking job opportunities. If you're looking for someone with a strong theoretical background and practical commitment, feel free to reach out!
 
 ## 🔧 Skills
 
