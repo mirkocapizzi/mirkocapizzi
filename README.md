@@ -1,11 +1,8 @@
 
 # Hi, I'm Mirko 👋
 
-I'm a passionate **Cybersecurity** enthusiast and **Computer Engineering** student at the Pegaso Telematic University. I'm 19 years old and have gained practical experience in cybersecurity through my training with **Epicode**.
-
-🌱 Currently, I'm deepening my knowledge in **Cybersecurity** and **Security Systems**. I'm always looking for new projects and challenges to learn and grow in the field.
-
-🎯 At the moment, I’m seeking job opportunities. If you're looking for someone with a strong theoretical background and practical commitment, feel free to reach out!
+I'm a passionate **Cybersecurity** enthusiast and **Computer Engineering** student at the Pegaso Telematic University. I'm 21 years old and have gained practical experience in cybersecurity through my training with **Epicode** At the moment, I’m working as IT Support in the Traffic management and Smart Cities sector. 
+I'm deepening my knowledge in **Cybersecurity** and **Security Systems**. I'm always looking for new projects and challenges to learn and grow in the field.
 
 ## 🔧 Skills
 
@@ -18,8 +15,8 @@ I'm a passionate **Cybersecurity** enthusiast and **Computer Engineering** stude
 
 ## 📚 Education
 
-- **Pegaso Telematic University** – Computer Engineering (Ongoing)
-- **Epicode** – Cybersecurity Bootcamp
+- ** Epicode** – Bachelor's Degree in Cybersecurity(Ongoing)
+- **Epicode** – Profesional Master in Cybersecurity & Ethical Hacking
 
 ## 📫 How to reach me
 
